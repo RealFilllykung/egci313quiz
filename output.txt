@@ -1,0 +1,10 @@
+Fills-MacBook-Pro:ai_imageDes macintoshhd$ dotnet run
+Images being analyzed ...
+
+Unable to open or read localImagePath:
+<LocalImage> 
+
+http://www.atilal.me/egci313/photourl/pic/starwar3.jpg
+a person wearing a costume
+
+Press ENTER to exit
